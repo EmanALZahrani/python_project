@@ -1,2 +1,3 @@
 file.txt
 this is adam
+this is second line 
