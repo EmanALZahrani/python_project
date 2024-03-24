@@ -1,3 +1,4 @@
 file.txt
 this is adam
 this is second line 
+hi this is third line
